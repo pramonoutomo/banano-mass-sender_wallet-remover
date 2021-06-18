@@ -1,8 +1,7 @@
 <?php include "_config.php";
 //telegram bot setting
-$botToken="997077427:AAENIlTQvXCk_QR3Xv5iWgHSAMFgWudgqTc";
-$channelID="-1001167445051";
-//banano mass sender logs = -1001167445051
+$botToken="";
+$channelID="";
 
 
 
